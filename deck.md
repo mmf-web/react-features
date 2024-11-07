@@ -9,6 +9,8 @@ class:
 
 # React Features
 
+<https://github.com/mmf-web/react-features/tree/main>
+
 BSU @ 2024
 
 ---
