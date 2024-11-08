@@ -6,6 +6,6 @@ Covers:
 - React.Children
 - React.Context
 
-Slides: [./deck.md](./deck.md)
+Slides: [./deck.md](./deck.md) [./presentation.pdf](./presentation.pdf)
 
 Code: [./context-demo](./context-demo)
